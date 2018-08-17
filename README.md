@@ -27,8 +27,8 @@ You are provided JSON data (found in `/data` directory and split across 10 files
 ```
 
 Design and build a UI to display the following metrics.
-- Quantity of food items by date sold, bucketed by food name
-- Number of food items purchased after expiration
+- Quantity of food by date purchased, bucketed by food name
+- Quantity of food purchased after expiration
 - List of food items with associated properties
 
 All metrics should be filterable by any of the properties and work in conjunction with other property filters.
