@@ -27,7 +27,7 @@ You are provided JSON data (found in `/data` directory and split across 10 files
 ```
 
 Design and build a UI to display the following metrics.
-- Quantity of food purchases by date
+- Quantity of food items by date sold, bucketed by food name
 - Number of food items purchased after expiration
 - List of food items with associated properties
 
@@ -43,4 +43,4 @@ Please provide the following with your submission.
 - A link to a live deployment of the project ([Heroku](https://www.heroku.com/) or elsewhere)
 
 ## Duration
-This project should take around 24 hours of active work  which can be divided up to fit your schedule.
+This project should take about 24 hours of active work  which can be divided up to fit your schedule.
