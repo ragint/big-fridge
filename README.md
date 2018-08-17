@@ -35,7 +35,12 @@ All metrics should be filterable by any of the properties and work in conjunctio
 
 Developing the project with [Vue.js](https://vuejs.org/) is preferred.
 
+Backend is not required.
+
 ## Deliverables
 Please provide the following with your submission.
 - A link to the github repo
 - A link to a live deployment of the project ([Heroku](https://www.heroku.com/) or elsewhere)
+
+## Duration
+This project should take around 24 hours of active work  which can be divided up to fit your schedule.
